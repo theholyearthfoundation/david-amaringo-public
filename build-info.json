@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "af3b031129e79e2d3a3f6f29f41e392b0a87bafd",
-  "shortCommit": "af3b031",
-  "message": "Genesis: David Amaringo begins in The Holy Earth Foundation",
-  "author": "drasticstatic",
-  "committedAt": "2026-10-25T17:28:45-04:00",
-  "builtAt": "2026-10-25T21:34:47.005Z"
+  "commit": "2a838dace645e5693e56e88e10f544ee3dad8f98",
+  "shortCommit": "2a838da",
+  "message": "Merge pull request #2 from theholyearthfoundation/preview",
+  "author": "Christopher Stephen Wilson",
+  "committedAt": "2026-10-25T19:37:28-04:00",
+  "builtAt": "2026-10-25T23:38:12.828Z"
 }

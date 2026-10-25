@@ -1,4 +1,4 @@
-:HL["/david-amaringo-public/_next/static/chunks/42n-671-wda28.css","style"]
+:HL["/_next/static/chunks/1y7qgudea-j9g.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"0oKjsjnXoMdSpeqH5ldx0","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"db_UnIb-JY2k8zLJg8Y0q","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
