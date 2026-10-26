@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "e15cc92efe9234829c00a45ea5a2f1b7899fe622",
-  "shortCommit": "e15cc92",
-  "message": "Merge pull request #3 from theholyearthfoundation/preview",
+  "commit": "262d070b34f5113daa10313f343e53bc814dd55c",
+  "shortCommit": "262d070",
+  "message": "Merge pull request #4 from theholyearthfoundation/preview",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-25T21:18:05-04:00",
-  "builtAt": "2026-10-26T01:18:46.417Z"
+  "committedAt": "2026-10-26T04:06:39-04:00",
+  "builtAt": "2026-10-26T08:07:31.560Z"
 }
