@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "262d070b34f5113daa10313f343e53bc814dd55c",
-  "shortCommit": "262d070",
-  "message": "Merge pull request #4 from theholyearthfoundation/preview",
+  "commit": "119fc32e43db8ee9c7ec0cbffa0c053f20eee50f",
+  "shortCommit": "119fc32",
+  "message": "Promote: this month's dependency updates (eslint 10, framer-motion 14, @types/node 26, Actions v7), TypeScript 7 held (#12)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-26T04:06:39-04:00",
-  "builtAt": "2026-10-26T08:07:31.560Z"
+  "committedAt": "2026-10-26T06:04:52-04:00",
+  "builtAt": "2026-10-26T10:05:33.028Z"
 }
