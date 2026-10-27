@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "78e40e7e491a3cd90ee9aa2943b39473f001d030",
-  "shortCommit": "78e40e7",
-  "message": "Promote: smooth trails on every page — the veil breathes without redrawing, the page's glows hold while you paint, lighter trail drawing (#15)",
+  "commit": "31408ec13d88fd9c2607faec470c2100f0ab7ce5",
+  "shortCommit": "31408ec",
+  "message": "Promote: AGENTS.md opens with a Spanish-first pointer for Kenney's AI helper (his ChatGPT, \"Alfred\"); the PR template says how to merge a Promote (#16)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-27T08:25:47-04:00",
-  "builtAt": "2026-10-27T12:26:32.410Z"
+  "committedAt": "2026-10-27T14:31:23-04:00",
+  "builtAt": "2026-10-27T18:32:28.082Z"
 }
