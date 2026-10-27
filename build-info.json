@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "cc4cf8c759358089373cfc8e25f50849cc77fca8",
-  "shortCommit": "cc4cf8c",
-  "message": "Promote: the art takes flight — a page for each painting, share cards, lighter pages, the builders' mark on lab tabs, keyboard and Daylight fixes (#14)",
+  "commit": "78e40e7e491a3cd90ee9aa2943b39473f001d030",
+  "shortCommit": "78e40e7",
+  "message": "Promote: smooth trails on every page — the veil breathes without redrawing, the page's glows hold while you paint, lighter trail drawing (#15)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-26T23:18:51-04:00",
-  "builtAt": "2026-10-27T03:19:29.112Z"
+  "committedAt": "2026-10-27T08:25:47-04:00",
+  "builtAt": "2026-10-27T12:26:32.410Z"
 }
