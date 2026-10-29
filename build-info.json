@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "31408ec13d88fd9c2607faec470c2100f0ab7ce5",
-  "shortCommit": "31408ec",
-  "message": "Promote: AGENTS.md opens with a Spanish-first pointer for Kenney's AI helper (his ChatGPT, \"Alfred\"); the PR template says how to merge a Promote (#16)",
+  "commit": "2fcc497c6458cc95ee59dff783d42a0115ee4d97",
+  "shortCommit": "2fcc497",
+  "message": "Promote: AGENTS.md points Kenney's helper to its welcome's new home (.github-private) (#17)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-27T14:31:23-04:00",
-  "builtAt": "2026-10-27T18:32:28.082Z"
+  "committedAt": "2026-10-29T18:34:15-04:00",
+  "builtAt": "2026-10-29T22:35:05.227Z"
 }
